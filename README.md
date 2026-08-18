@@ -30,7 +30,7 @@ lessons/     earlier coursework (Microsoft Data Science for Beginners)
 
 | # | Course | Status |
 |---|---|---|
-| 1 | Understanding Data Engineering | — |
+| 1 | Understanding Data Engineering | Done — 17 Aug 2026 |
 | 2 | Introduction to SQL | — |
 | 3 | Intermediate SQL | — |
 | 4 | Joining Data in SQL | — |
