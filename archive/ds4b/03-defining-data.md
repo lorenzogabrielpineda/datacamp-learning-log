@@ -1,4 +1,4 @@
-# 03 — Defining Data
+# 03. Defining Data
 
 *Section 1, Introduction · read 1 Aug 2026*
 
