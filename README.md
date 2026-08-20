@@ -40,7 +40,7 @@ note quietly overwritten.
 | # | Course | Status |
 |---|---|---|
 | 1 | Understanding Data Engineering | Done, 17 Aug 2026 |
-| 2 | Introduction to SQL | In progress |
+| 2 | Introduction to SQL | Done, 20 Aug 2026 |
 | 3 | Intermediate SQL | |
 | 4 | Joining Data in SQL | |
 | 5 | Introduction to Relational Databases in SQL | |
