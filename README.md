@@ -41,7 +41,7 @@ note quietly overwritten.
 |---|---|---|
 | 1 | Understanding Data Engineering | Done, 17 Aug 2026 |
 | 2 | Introduction to SQL | Done, 20 Aug 2026 |
-| 3 | Intermediate SQL | |
+| 3 | Intermediate SQL | Done, 21 Aug 2026 |
 | 4 | Joining Data in SQL | |
 | 5 | Introduction to Relational Databases in SQL | |
 | 6 | Database Design | |
